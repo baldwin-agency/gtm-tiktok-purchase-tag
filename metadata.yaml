@@ -1,5 +1,5 @@
 homepage: "https://www.baldwin.agency/"
-documentation: "https://github.com/baldwin-agency/.../blob/main/README.md"
+documentation: "https://github.com/baldwin-agency/gtm-tiktok-purchase-tag/blob/main/README.md"
 versions:
-  - sha:
-    changeNotes:
+  - sha: 97e89e6f1718c471347fb4a587d6a8a31dfb1247
+    changeNotes: Initial release.
