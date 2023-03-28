@@ -3,3 +3,5 @@ documentation: "https://github.com/baldwin-agency/gtm-tiktok-purchase-tag/blob/m
 versions:
   - sha: 97e89e6f1718c471347fb4a587d6a8a31dfb1247
     changeNotes: Initial release.
+  - sha: 46f3bee8391e6f4e62a4b031e337c08a299fa81b
+    changeNotes: Added terms of service
